@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSSM.a CMakeFiles/SSM.dir/src/SSM.cpp.o
+/usr/bin/ranlib libSSM.a
