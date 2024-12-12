@@ -1,4 +1,0 @@
-/usr/local/lib/libSSM.a
-/usr/local/include/SSM/SSM.h
-/usr/local/lib/cmake/SSM/SSMConfig.cmake
-/usr/local/lib/cmake/SSM/SSMConfig-release.cmake

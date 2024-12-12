@@ -1,7 +1,0 @@
-/home/hfp/SSM/build/CMakeFiles/SSM.dir
-/home/hfp/SSM/build/CMakeFiles/edit_cache.dir
-/home/hfp/SSM/build/CMakeFiles/rebuild_cache.dir
-/home/hfp/SSM/build/CMakeFiles/list_install_components.dir
-/home/hfp/SSM/build/CMakeFiles/install.dir
-/home/hfp/SSM/build/CMakeFiles/install/local.dir
-/home/hfp/SSM/build/CMakeFiles/install/strip.dir
