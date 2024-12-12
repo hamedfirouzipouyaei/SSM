@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# fodlers
+build/
+cmake-build-debug/
+.idea/
+
